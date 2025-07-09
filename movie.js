@@ -1,4 +1,4 @@
-const movieData = [
+const filmData = [
   {
     title: "The Flu (2013)",
     slug: "the-flu-2013",
